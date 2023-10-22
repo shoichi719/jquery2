@@ -1,7 +1,4 @@
-div{
-  width: 300px;
-  height: 300px;
-  margin-top: 300px;
-  text-align: center;
-  background-color: turquoise;
+.test{
+  font-size: 50px;
+  background-color:blanchedalmond;
 }
